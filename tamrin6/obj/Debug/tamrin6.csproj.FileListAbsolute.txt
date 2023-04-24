@@ -1,0 +1,8 @@
+C:\Users\AMIR\Desktop\tamrin6\tamrin6\obj\Debug\tamrin6.csproj.AssemblyReference.cache
+C:\Users\AMIR\Desktop\tamrin6\tamrin6\obj\Debug\tamrin6.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMIR\Desktop\tamrin6\tamrin6\obj\Debug\tamrin6.csproj.CoreCompileInputs.cache
+C:\Users\AMIR\Desktop\tamrin6\tamrin6\bin\Debug\tamrin6.exe.config
+C:\Users\AMIR\Desktop\tamrin6\tamrin6\bin\Debug\tamrin6.exe
+C:\Users\AMIR\Desktop\tamrin6\tamrin6\bin\Debug\tamrin6.pdb
+C:\Users\AMIR\Desktop\tamrin6\tamrin6\obj\Debug\tamrin6.exe
+C:\Users\AMIR\Desktop\tamrin6\tamrin6\obj\Debug\tamrin6.pdb
